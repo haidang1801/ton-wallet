@@ -6,7 +6,7 @@ function App() {
 
   return (
     <TonConnectUIProvider
-    manifestUrl='http://127.0.0.1:8000/tonconnect-manifest.json'
+    manifestUrl='https://haidang1801.github.io/ton-wallet/tonconnect-manifest.json'
     uiPreferences={{ theme: THEME.LIGHT }}>
       <div className="app">
         <Header/>
