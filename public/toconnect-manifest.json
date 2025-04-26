@@ -1,0 +1,5 @@
+{
+  "url": "http://127.0.0.1:8000/ton-wallet",
+  "name": "My Website",
+  "iconUrl": "http://localhost:5173/ton-wallet/vite.png"
+}
